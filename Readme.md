@@ -1,6 +1,5 @@
 # Monday Coffee Expansion SQL Project
 
-![White Grey Minimalist Market Analysis Presentation](https://github.com/user-attachments/assets/82ccf4df-fbc7-4388-bd0b-49d200a8299b)
 
 
 ## Objective
